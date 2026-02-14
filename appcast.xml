@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>AIPepito</title>
+    <item>
+      <title>Version 26.9</title>
+      <sparkle:version>26.9</sparkle:version>
+      <sparkle:shortVersionString>26.9</sparkle:shortVersionString>
+      <enclosure url="https://github.com/vjeantet/aipepito-releases/releases/download/v26.9/AIPepito.dmg"
+                 sparkle:edSignature="nVT4JUwFwD8cxTYPjE3rGPn2WcOE2Xa+k1SfzvroOfpTRXyjLTvQJyxT1Z4yP9jAFUMYXpMSIWZDKVBYMmc4BQ=="
+                 length="6668957"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
