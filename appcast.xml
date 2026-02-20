@@ -3,12 +3,12 @@
   <channel>
     <title>AIPepito</title>
     <item>
-      <title>Version 26.15</title>
-      <sparkle:version>26.15</sparkle:version>
-      <sparkle:shortVersionString>26.15</sparkle:shortVersionString>
-      <enclosure url="https://github.com/vjeantet/aipepito-releases/releases/download/v26.15/AIPepito.dmg"
-                 sparkle:edSignature="p73Q/e2qSbRfMhePg9wchF/YvzVFSL7nx8kEIefrY1MKiTWdGx+ZA0fQ2zOpdd/EekAJMAvt5AhXdNWJ7sZ9Aw=="
-                 length="6685348"
+      <title>Version 26.16</title>
+      <sparkle:version>26.16</sparkle:version>
+      <sparkle:shortVersionString>26.16</sparkle:shortVersionString>
+      <enclosure url="https://github.com/vjeantet/aipepito-releases/releases/download/v26.16/AIPepito.dmg"
+                 sparkle:edSignature="FT+L1ehMDTSKUuTMRUgoMBgWAMOhOyBnhabSQ1/HS8dH5s/SP7EygBwMXv0nQE7beKU6YuNSsLOl+43c0RooBA=="
+                 length="6698175"
                  type="application/octet-stream"/>
     </item>
   </channel>
