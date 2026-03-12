@@ -1,4 +1,4 @@
-# pepito Releases
+# Pepito Releases
 
 Binary releases for **pepito**, a macOS application for meeting recording with automatic transcription and AI-generated reports.
 
