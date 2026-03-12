@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>AIPepito</title>
+    <title>pepito</title>
     <item>
-      <title>Version 26.23</title>
-      <sparkle:version>26.23</sparkle:version>
-      <sparkle:shortVersionString>26.23</sparkle:shortVersionString>
-      <enclosure url="https://github.com/vjeantet/aipepito-releases/releases/download/v26.23/AIPepito.dmg"
-                 sparkle:edSignature="vDA3l6hfdDqAy7dtk9nYCoPRRaMP2qC/vrFnpDkNZ/XJFEn2Q4eC/tLX0E4ZOom+jj2mrXiVDmIwVRLUTnW3Bg=="
-                 length="3988629"
+      <title>Version 26.24</title>
+      <sparkle:version>26.24</sparkle:version>
+      <sparkle:shortVersionString>26.24</sparkle:shortVersionString>
+      <enclosure url="https://github.com/vjeantet/pepito-releases/releases/download/v26.24/pepito.dmg"
+                 sparkle:edSignature="PObKDp6JetaN7vJM0/JUp2lJYojKgcN6pCi53M2ddF7SO1kWjUgjXmBkCTctcZnlnDLfH7k6PHxZGbtPBIWZAQ=="
+                 length="4194504"
                  type="application/octet-stream"/>
     </item>
   </channel>
